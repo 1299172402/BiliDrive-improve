@@ -1,0 +1,3 @@
+pip install rsa
+pip install pillow
+pip install requests

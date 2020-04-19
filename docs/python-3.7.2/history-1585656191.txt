@@ -1,0 +1,9 @@
+文件名: python-3.7.2.exe
+大小: 24.19 MB
+SHA-1: 3f87cf0f8905d5cef118a35a0ac8c88721e59bba
+上传时间: 2020-03-31 20:03:03
+分块数: 7
+分块大小：4.00 MB
+META URL -> bdex://c34bc68997283e2e15eb9e5d6b3780c6df87fd6c
+
+

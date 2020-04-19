@@ -1,0 +1,117 @@
+文件名: 刀剑神域外传-GunGaleOnline-1-01.mp4
+大小: 119.24 MB
+SHA-1: ae3931f780e024983bcf41232da8f6085e7d04cb
+上传时间: 2020-03-31 19:38:45
+分块数: 12
+分块大小：10.00 MB
+META URL -> bdex://e6d4cd33cd39b4bccf2911400314ad4f400090fa
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-02.mp4
+大小: 111.04 MB
+SHA-1: e57cde79fe8dcdfdb3834cd4d1719eae66bf9522
+上传时间: 2020-03-31 19:39:19
+分块数: 12
+分块大小：10.00 MB
+META URL -> bdex://0fb6cc981377111a766eed7988b9670d83647453
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-03.mp4
+大小: 105.83 MB
+SHA-1: 288d7eb0242100de0fc8775bfcffae79f091de77
+上传时间: 2020-03-31 19:39:52
+分块数: 11
+分块大小：10.00 MB
+META URL -> bdex://8649330fbade0a2f804f1d22fb4c29fa7dbb25ba
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-04.mp4
+大小: 127.21 MB
+SHA-1: ae22d365b43525b1d9f99ebb114b184b05d52b94
+上传时间: 2020-03-31 19:40:47
+分块数: 13
+分块大小：10.00 MB
+META URL -> bdex://e9b070a81c953cc6e8265f6448dceb71067adf8f
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-05.mp4
+大小: 149.78 MB
+SHA-1: fc38da4315be9cf16f3535fe5a9d541b9f8b9912
+上传时间: 2020-03-31 19:41:30
+分块数: 15
+分块大小：10.00 MB
+META URL -> bdex://9cb4bd7fe2b8c602a1cf974452b0ecaf823af34b
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-06.mp4
+大小: 82.13 MB
+SHA-1: 50fb8f84a8e67eb50ab253f9a8a7db3c8650eba0
+上传时间: 2020-03-31 19:41:56
+分块数: 9
+分块大小：10.00 MB
+META URL -> bdex://bfba5de769bb2eb942d7c2f029beed00b5afd151
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-07.mp4
+大小: 91.72 MB
+SHA-1: 50007e293b09429f2d2985fdcfa843bdf94ebce6
+上传时间: 2020-03-31 19:42:27
+分块数: 10
+分块大小：10.00 MB
+META URL -> bdex://8c3d3a509893f37fca88f7eca283fb785400e077
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-08.mp4
+大小: 109.38 MB
+SHA-1: 7e78291b5c4db54bebe3a547f62699ed2584a898
+上传时间: 2020-03-31 19:43:00
+分块数: 11
+分块大小：10.00 MB
+META URL -> bdex://f255a021c1ccd785d24eb396a80e925ff9a3b3db
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-09.mp4
+大小: 119.98 MB
+SHA-1: df4898713095ed318bd0f007f6aad837dd768eeb
+上传时间: 2020-03-31 19:43:36
+分块数: 12
+分块大小：10.00 MB
+META URL -> bdex://b9d2296f71675a7aa61f0be962a8ef85dd41269d
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-10.mp4
+大小: 105.29 MB
+SHA-1: e648ea420935c6ecdfc63cda164718bb9f060fd3
+上传时间: 2020-03-31 19:44:08
+分块数: 11
+分块大小：10.00 MB
+META URL -> bdex://07049432d718b63460f2cb94f0edd7c15be0ff77
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-11.mp4
+大小: 137.15 MB
+SHA-1: d0dc39c76a67651272b22eedf04f781019b73e16
+上传时间: 2020-03-31 19:44:48
+分块数: 14
+分块大小：10.00 MB
+META URL -> bdex://0d633aead56775ec429f062d5cbf6fde42800ed9
+
+
+文件名: 刀剑神域外传-GunGaleOnline-1-12.mp4
+大小: 110.43 MB
+SHA-1: f6b623113c0d566c5293b045099b05a1a9503d4e
+上传时间: 2020-03-31 19:45:24
+分块数: 12
+分块大小：10.00 MB
+META URL -> bdex://77c05cbaa85b4c4fb5808f082479a8fe4e80528f
+
+
+文件名: 刀剑神域外传-GunGaleOnline-源1.txt
+大小: 2.86 KB
+SHA-1: 0c02f3b7a7e9a6c56a49b4c3a0231db9762c0021
+上传时间: 2020-03-31 19:45:25
+分块数: 1
+分块大小：2.86 KB
+META URL -> bdex://d10f4349ba41316d31cd504b4ff6f9d7f4c58691
+
+

@@ -1,0 +1,18 @@
+文件名: 刀剑神域-Extra-Edition-OVA-特别版-源2.mp4
+大小: 441.09 MB
+SHA-1: 040469fd483602210a25cafae735a7bf86846be6
+上传时间: 2020-03-31 19:52:23
+分块数: 45
+分块大小：10.00 MB
+META URL -> bdex://1dd7fe521bcd11a9426d24de372f08478e9e5ce3
+
+
+文件名: 刀剑神域-Extra-Edition-OVA-特别版-源2.txt
+大小: 869 B
+SHA-1: ae06afdd8d60e08859d8c40a0fbc681dfcb97681
+上传时间: 2020-03-31 19:52:25
+分块数: 1
+分块大小：869 B
+META URL -> bdex://2d3ef3c125508af5a96b28f78e1030078074f043
+
+

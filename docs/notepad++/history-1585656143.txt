@@ -1,0 +1,9 @@
+文件名: npp.7.8.5.Installer.exe
+大小: 3.58 MB
+SHA-1: c4f0d6e208705a56f1626969d5e4fd5b1776ac67
+上传时间: 2020-03-31 20:02:12
+分块数: 1
+分块大小：3.58 MB
+META URL -> bdex://04b47e70a13ac62af4eae0b23878389b41dddff5
+
+
