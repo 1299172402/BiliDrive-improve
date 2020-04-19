@@ -2,7 +2,8 @@
 哔哩哔哩图床
 
 Bili图床共有库
-BiliDrive
+BiliDrive魔改版
+有网盘同步，类bt上传功能
 
 exe下载请☞https://zhiyuyu.lanzous.com/ibl5b7a
 
@@ -10,7 +11,7 @@ exe下载请☞https://zhiyuyu.lanzous.com/ibl5b7a
 上传下载可用，请勿过度宣传，软件交流群927256090
 （下载速度测试可用example/history.txt中 爱情公寓5）
 
-![](https://raw.githubusercontent.com/1299172402/BiliDrive/bilibili/pic/introduction.PNG)
+![](https://github.com/1299172402/BiliDrive-BT/blob/master/pic/introduction.PNG?raw=true)
 
 模仿bt种子和磁力链接设计，希望各位二刺螈能分享你们看过的动漫番剧
 
