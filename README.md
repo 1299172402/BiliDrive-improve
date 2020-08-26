@@ -5,10 +5,10 @@ Bili图床共有库
 BiliDrive魔改版
 有网盘同步，类bt上传功能
 
-exe下载请☞https://zhiyuyu.lanzous.com/ibl5b7a
+# exe下载请☞ https://zhiyuyu.lanzous.com/irO4Eg2jw5e
 
 
-上传下载可用，请勿过度宣传，软件交流群927256090
+上传下载可用，软件交流群927256090
 （下载速度测试可用example/history.txt中 爱情公寓5）
 
 ![](https://github.com/1299172402/BiliDrive-BT/blob/master/pic/introduction.PNG?raw=true)
