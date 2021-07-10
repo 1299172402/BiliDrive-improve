@@ -5,7 +5,7 @@ Bili图床共有库
 BiliDrive魔改版
 有网盘同步，类bt上传功能
 
-# exe下载请☞ https://zhiyuyu.lanzoui.com/iNxF7g2l0rg [2020.08.26]
+# exe下载请☞ https://zhiyuyu.lanzoui.com/iiJ4Rr96fre [2021.07.11]
 
 
 上传下载可用，软件交流群927256090
